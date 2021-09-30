@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "353984244598",
+    "firebase_url": "https://wifidoorlock-ae87f.firebaseio.com",
+    "project_id": "wifidoorlock-ae87f",
+    "storage_bucket": "wifidoorlock-ae87f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353984244598:android:6f701ffa9798ca1c7c2857",
+        "android_client_info": {
+          "package_name": "com.example.wdlpia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353984244598-126vcrr54e88k4mh5nu1gherbeikqf26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo7L1Njxvsv7YngRetybWgnZiOZq6BiVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353984244598-126vcrr54e88k4mh5nu1gherbeikqf26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

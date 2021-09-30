@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">wdlpia</string>
+
+
+    <string name="Logo">Logo</string>
+    <string name="Email_Login"> Email </string>
+    <string name="Password_login"> Password </string>
+    <string name="Login_Login"> Iniciar Sesión</string>
+    <string name="Mensaje_RestablecerPassword">Haz olvidado  tu contraseña ?</string>
+    <string name="RestablecerContraseñaButton"> Olvide mi Contraseña</string>
+    <string name="Mensaje_Login">No estás registrado? Hazlo dando tap en "Registrarse":</string>
+    <string name="Registrarse_Login"> Registrarse</string>
+
+
+    <string name="Return">Return</string>
+    <string name="Email_Singup">Email</string>
+    <string name="Password_Singup">Password</string>
+    <string name="Password_Singup2">Confirma tu Password</string>
+    <string name="Registrarse_Singup">Registrarse</string>
+
+
+    <string name="perfil">Perfil</string>
+    <string name="cerrar_sesion">Cerrar Sesión</string>
+
+
+    <string name="Puerta">Puerta</string>
+    <string name="lock">Candado cerrado</string>
+    <string name="open">Candado abierto</string>
+    <string name="Cerrar">Cerrar Puerta</string>
+    <string name="Abrir">Abrir Puerta</string>
+
+    <string name="Email_ProfileActivity">Email del usuario: </string>
+    <string name="Email_Button_ProfileActivity">Cambiar Email de usuario</string>
+    <string name="Password_ProfileActivity">Contraseña del usuario: </string>
+    <string name="Password_Button_ProfileActivity">Restablecer Contraseña </string>
+
+
+    <string name="Mensaje_Resett_Password">Para poder restablecer la contraseña es necesario poner el email del usuario a la que se le mandará el correo para restablecer la contraseña</string>
+    <string name="Email_Password_Resett">Email</string>
+    <string name="Password_Resett_Button">Restablecer Contraseña</string>
+
+
+    <string name="Bitacora"> Bitacora </string>
+    <string name="Mensaje">mensajes</string>
+    <string name="bttDelete">BorrarBitacora</string>
+
+</resources>
